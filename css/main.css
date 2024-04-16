@@ -1848,8 +1848,9 @@ header .logo a {
 }
 
 .folio-item img {
-	width: 200px;
+	width: 300px;
 	height: 200px;
+	padding: 5pxgit;
 	object-fit: cover;
 }
 #portfolio .folio-title {
